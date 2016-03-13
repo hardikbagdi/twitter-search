@@ -1,0 +1,4 @@
+A crude twitter-search client using twitter's rest api and application only oauth.
+Replace consumer key and secret with your app's key and secret.
+Usage-
+python twitter-search.py <keyword>
